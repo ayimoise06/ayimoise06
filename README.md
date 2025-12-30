@@ -95,7 +95,7 @@ Mon objectif est de consolider mes bases techniques tout en développant des com
 ## 📫 Contact
 
 - 💼 LinkedIn : *(ajoute ton lien ici)*
-- 📧 Email : *(ajoute ton email ici)*
+- 📧 Email : *ayimoisehunlede@gmail.com*
 - 🐙 GitHub : https://github.com/ayimoise06
 
 ---
