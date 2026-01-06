@@ -67,8 +67,8 @@ Mon objectif est de consolider mes bases techniques tout en développant des com
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayimoise06&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayimoise06&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayimoise06&show_icons=true&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayimoise06&layout=compact&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
