@@ -76,7 +76,11 @@ Mon objectif est de consolider mes bases techniques tout en développant des com
 </p>
 
 ---
+## 🔥 Activités Github
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayimoise06\&theme=tokyo-night)
+
+---
 ## 🎯 Objectifs actuels
 
 - Renforcer mes compétences en algorithmique et programmation
