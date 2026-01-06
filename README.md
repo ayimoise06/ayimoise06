@@ -51,6 +51,7 @@ Mon objectif est de consolider mes bases techniques tout en développant des com
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=PHP" />
 </p>
 
 ### Outils & Environnement
